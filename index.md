@@ -38,17 +38,17 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-### Introduction
+# Introduction
 Write a brief summary of your project
 
-### Motivation
+# Motivation
 Motivate the problem you plan to address
 Why is the problem you are addressing important or interesting?
 
-### Goals
+# Goals
 What are you going to achieve by the end of the project specifically?
 
-### For Progress Report
+# For Progress Report
 ## Current Progress
 Summarize what you have done so far
 Highlights: In particular, articulate thing(s) you have learned / solved outside of what was taught in class
@@ -58,7 +58,7 @@ This section is of the most importance in the progress report. It not only give 
 ## Future Plan
 Describe what you plan to do in the next two weeks
 
-### Methodology
+# Methodology
 ## Phenomena of Interest
 Describe the physical phenomena of interest, e.g. physical principles, static and dynamic behavior, and signal characteristics
 ## Sensor(s) Used
@@ -66,8 +66,8 @@ Describe the sensor(s) you used, e.g. physical principles, static and dynamic be
 ## Signal Conditioning and Processing
 Describe the signal conditioning and processing procedures
 
-### Experiments and Results
+# Experiments and Results
 Describe the experiments you did and present the results; Use tables and plots if possible
 
-### Discussion
+# Discussion
 Discuss the insights from the project
