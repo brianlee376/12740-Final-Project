@@ -35,3 +35,39 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+### Introduction
+Write a brief summary of your project
+
+### Motivation
+Motivate the problem you plan to address
+Why is the problem you are addressing important or interesting?
+
+### Goals
+What are you going to achieve by the end of the project specifically?
+
+### For Progress Report
+## Current Progress
+Summarize what you have done so far
+Highlights: In particular, articulate thing(s) you have learned / solved outside of what was taught in class
+## Problems Encountered
+Articulate the problems you have encountered
+This section is of the most importance in the progress report. It not only give the TA information on what help you may need, and also encourages you to think deeper about your problems.
+## Future Plan
+Describe what you plan to do in the next two weeks
+
+### Methodology
+## Phenomena of Interest
+Describe the physical phenomena of interest, e.g. physical principles, static and dynamic behavior, and signal characteristics
+## Sensor(s) Used
+Describe the sensor(s) you used, e.g. physical principles, static and dynamic behavior, and signal characteristics
+## Signal Conditioning and Processing
+Describe the signal conditioning and processing procedures
+
+### Experiments and Results
+Describe the experiments you did and present the results; Use tables and plots if possible
+
+### Discussion
+Discuss the insights from the project
