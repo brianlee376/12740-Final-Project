@@ -43,9 +43,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <img src="images/dht11-temperature-humidity-sensor-module.jpg" alt="dht11 temperature & humidity sensor" class="inline"  width="400"/>
 
 
-Solarized dark             |  Solarized Ocean
+Sensor             |  Image
 :-------------------------:|:-------------------------:
-![](https://earthsky.org/upl/2020/06/ocean-apr27-2020-Cidy-Chai-North-Pacific-sq.jpeg)  |  ![](https://earthsky.org/upl/2020/06/ocean-apr27-2020-Cidy-Chai-North-Pacific-sq.jpeg)
+"DHT11 Temperature & Humidity" |  <img src="images/dht11-temperature-humidity-sensor-module.jpg" alt="dht11 temperature & humidity sensor"  width="200"/>
 
 
 # Introduction
