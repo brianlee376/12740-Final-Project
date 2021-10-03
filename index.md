@@ -45,8 +45,15 @@ Write a brief summary of your project
 Motivate the problem you plan to address
 Why is the problem you are addressing important or interesting?
 
+Want to create a controllable mock living space using inputs from sensors
+
 # Goals
 What are you going to achieve by the end of the project specifically?
+
+Improve general living conditions in the model space
+Comfort
+Safety
+Efficiency
 
 # For Progress Report
 ## Current Progress
@@ -61,8 +68,26 @@ Describe what you plan to do in the next two weeks
 # Methodology
 ## Phenomena of Interest
 Describe the physical phenomena of interest, e.g. physical principles, static and dynamic behavior, and signal characteristics
+
+Presence of fire
+Touch
+Light
+Temperature
+Smoke
+Carbon-monoxide
+
+
 ## Sensor(s) Used
 Describe the sensor(s) you used, e.g. physical principles, static and dynamic behavior, and signal characteristics
+
+Flame sensor -> Buzzer, Slack message
+Touch -> Buzzer
+PIR w/ Photosensitive -> LED
+Temperature -> Fan
+Smoke -> Slack message
+Carbon monoxide -> Slack message
+
+
 ## Signal Conditioning and Processing
 Describe the signal conditioning and processing procedures
 
@@ -71,3 +96,11 @@ Describe the experiments you did and present the results; Use tables and plots i
 
 # Discussion
 Discuss the insights from the project
+
+Not knowing if the carbon monoxide sensor is working properly
+Being able to link up all the sensors to the board
+Are there enough pinouts on the Raspberry PI?
+Getting power to all the sensors + fan
+Making sure the smoke sensor doesn’t get damaged and is working properly
+Designing & building the model house
+
