@@ -40,7 +40,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/d/h/dht11-temperature-humidity-sensor-module.jpg
+https://github.com/brianlee376/12740-Smart-Home-IoT/blob/main/dht11-temperature-humidity-sensor-module.jpg
 
 # Introduction
 Write a brief summary of your project
