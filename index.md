@@ -45,7 +45,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://earthsky.org/upl/2020/06/ocean-apr27-2020-Cidy-Chai-North-Pacific-sq.jpegg)  |  ![](https://earthsky.org/upl/2020/06/ocean-apr27-2020-Cidy-Chai-North-Pacific-sq.jpeg)
+![](https://earthsky.org/upl/2020/06/ocean-apr27-2020-Cidy-Chai-North-Pacific-sq.jpeg)  |  ![](https://earthsky.org/upl/2020/06/ocean-apr27-2020-Cidy-Chai-North-Pacific-sq.jpeg)
 
 
 # Introduction
