@@ -42,6 +42,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <img src="images/dht11-temperature-humidity-sensor-module.jpg" alt="dht11 temperature & humidity sensor" class="inline"  width="400"/>
 
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://earthsky.org/upl/2020/06/ocean-apr27-2020-Cidy-Chai-North-Pacific-sq.jpegg)  |  ![](https://earthsky.org/upl/2020/06/ocean-apr27-2020-Cidy-Chai-North-Pacific-sq.jpeg)
+
+
 # Introduction
 Write a brief summary of your project
 
