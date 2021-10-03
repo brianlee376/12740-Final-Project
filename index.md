@@ -1,4 +1,5 @@
-# Smart Home Automation - Sensing & Controlling Fall 2021
+# Smart Home Automation - Sensing & Controlling
+## 12740 Data Aquisition Fall 2021
 Team Members: Brian Lee, Cheyu Lin, Ryan Rusali, Matt Takara
 
 ### Markdown
@@ -22,16 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brianlee376/12740-Smart-Home-IoT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
 # Introduction
@@ -47,7 +39,6 @@ Want to create a controllable mock living space using inputs from sensors
 
 # Goals
 What are you going to achieve by the end of the project specifically?
-
 Improve general living conditions in the model space
 Comfort
 Safety
@@ -106,13 +97,13 @@ Temperature -> Fan
 Smoke -> Slack message
 Carbon monoxide -> Slack message
 
-Sensor             |  Image
-:-------------------------:|:-------------------------:
-DHT11 Temperature & Humidity | <img src="https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/d/h/dht11-temperature-humidity-sensor-module.jpg" alt="dht11 temperature & humidity sensor"  width="200"/>
-Touch | <img src="https://imgaz3.staticbg.com/thumb/large/upload/2012/lidanpo/SKU117322%20(1).jpg" alt="touch sensor"  width="200"/>
-Photoresistive | <img src="https://osoyoo.com/wp-content/uploads/2017/09/14.jpg" alt="photoresistive sensor"  width="200"/>
-MQ2 Smoke | <img src="https://img.joomcdn.net/21d689accaa9b832d434936c1b8058a4e05b16a5_original.jpeg" alt="smoke sensor"  width="200"/>
-Carbon-monoxide | <img src="https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Sensors/MQ-7%20Sensitive%20Detecting%20Carbon%20CO%20Gas%20Porduct/MQ-7%20Sensitive%20Detecting%20CO%20Gas%20Twins%20Chip%201-550x550.jpg" alt="carbon monoxide sensor"  width="200"/>
+Sensor             | Function |Image
+:-------------------------:|:-------------------------:|:-------------------------:
+DHT11 Temperature & Humidity | Fan|  <img src="https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/d/h/dht11-temperature-humidity-sensor-module.jpg" alt="dht11 temperature & humidity sensor"  width="200"/>
+Touch | LED |<img src="https://imgaz3.staticbg.com/thumb/large/upload/2012/lidanpo/SKU117322%20(1).jpg" alt="touch sensor"  width="200"/>
+Photoresistive | LED |<img src="https://osoyoo.com/wp-content/uploads/2017/09/14.jpg" alt="photoresistive sensor"  width="200"/>
+MQ2 Smoke | Fan & Buzzer | <img src="https://img.joomcdn.net/21d689accaa9b832d434936c1b8058a4e05b16a5_original.jpeg" alt="smoke sensor"  width="200"/>
+Carbon Monoxide | Fan & Buzzer| <img src="https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Sensors/MQ-7%20Sensitive%20Detecting%20Carbon%20CO%20Gas%20Porduct/MQ-7%20Sensitive%20Detecting%20CO%20Gas%20Twins%20Chip%201-550x550.jpg" alt="carbon monoxide sensor"  width="200"/>
 
 
 ## Signal Conditioning and Processing
