@@ -55,6 +55,7 @@ Item             |  Image
 :-------------------------:|:-------------------------:
 LED Control w/ Touch Sensor | <img src="images/touch_led.jpg" alt="touch sensor and LED setup"  width="400"/>
 Fan Control w/ Touch Sensor & Relay | <img src="images/touch_relay_fan.jpg" alt="fan control with touch sensor & relay"  width="400"/>
+Smoke Sensor Testing | <img src="images/MQ2 Sensor Testing.jpg" alt="MQ2 sensor testing"  width="400"/>
 Model House | <img src="images/model_house_inital.jpg" alt="model house"  width="400"/>
 
 Highlights: In particular, articulate thing(s) you have learned / solved outside of what was taught in class
@@ -96,6 +97,9 @@ Describe the sensor(s) you used, e.g. physical principles, static and dynamic be
 
 Sensor             | Control |Image
 :-------------------------:|:-------------------------:|:-------------------------:
+
+
+Buzzer | NA | <img src="http://cdn.shopify.com/s/files/1/0068/3399/5894/products/DSC_1892_grande.jpg?v=1590559539" alt="buzzer sensor"  width="200"/>
 Carbon Monoxide | Fan & Buzzer | <img src="https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Sensors/MQ-7%20Sensitive%20Detecting%20Carbon%20CO%20Gas%20Porduct/MQ-7%20Sensitive%20Detecting%20CO%20Gas%20Twins%20Chip%201-550x550.jpg" alt="carbon monoxide sensor"  width="200"/>
 DHT11 Temperature & Humidity | Fan |  <img src="https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/d/h/dht11-temperature-humidity-sensor-module.jpg" alt="dht11 temperature & humidity sensor"  width="200"/>
 Flame | LED & Buzzer | <img src="https://www.pcboard.ca/image/cache/catalog/products/flame-sensor/Flame-Sensor-Module-800x800.jpg" alt="carbon monoxide sensor"  width="200"/>
