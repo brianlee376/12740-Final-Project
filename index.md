@@ -68,14 +68,14 @@ Highlights: In particular, articulate thing(s) you have learned / solved outside
 
 This section is of the most importance in the progress report. It not only give the TA information on what help you may need, and also encourages you to think deeper about your problems.
 ## Future Plan - Describe what you plan to do in the next two weeks
-### Next Week
+### this Week
 1. Finish testing all sensors w/ functional code
 2. Wire sensors into structure
 3. Wire sensors to raspberry pi
 4. Record live demo video
 5. Start Github page report
 
-### Following Week
+### Next Week
 1. Finish report
 
 
