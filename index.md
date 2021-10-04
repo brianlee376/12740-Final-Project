@@ -60,17 +60,17 @@ Model House | <img src="images/model_house_inital.jpg" alt="model house"  width=
 
 Highlights: In particular, articulate thing(s) you have learned / solved outside of what was taught in class
 ## Problems Encountered - Articulate the problems you have encountered
-- Wiring the sensors correctly
-- Debugging code
-- Frying sensors
-- Using multithreading
-- Understanding how to use Github pages
+- Wiring the sensors correctly - having the wires going to the correct pinouts on the GPIO, determining whether resistors need to be added to the circuit, wiring the 5v relay, needing to double check wiring
+- Frying sensors - caused by incorrect wiring
+- Debugging code - understanding why the sensor is not giving an ouptut, why the controlling event is not being triggered
+- Using multithreading to pull data from sensors simlutaneously
+- Understanding how to use Github pages - figuring out how to add images that are from the web or local, formatting content
 
 This section is of the most importance in the progress report. It not only give the TA information on what help you may need, and also encourages you to think deeper about your problems.
 ## Future Plan - Describe what you plan to do in the next two weeks
-### this Week
+### This Week
 1. Finish testing all sensors w/ functional code
-2. Wire sensors into structure
+2. Wire sensors into structure - this will be especially time consuming because of the extensive wiring that will be run under the model house
 3. Wire sensors to raspberry pi
 4. Record live demo video
 5. Start Github page report
