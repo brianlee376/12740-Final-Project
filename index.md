@@ -66,7 +66,6 @@ Highlights: In particular, articulate thing(s) you have learned / solved outside
 - Using multithreading to pull data from sensors simlutaneously
 - Understanding how to use Github pages - figuring out how to add images that are from the web or local, formatting content
 
-This section is of the most importance in the progress report. It not only give the TA information on what help you may need, and also encourages you to think deeper about your problems.
 ## Future Plan - Describe what you plan to do in the next two weeks
 ### This Week
 1. Finish testing all sensors w/ functional code
