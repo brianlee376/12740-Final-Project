@@ -59,11 +59,12 @@ Smoke Sensor Testing | <img src="images/MQ2 Sensor Testing.jpg" alt="MQ2 sensor 
 Model House | <img src="images/model_house_inital.jpg" alt="model house"  width="400"/>
 
 Highlights: In particular, articulate thing(s) you have learned / solved outside of what was taught in class
-## Problems Encountered - Articulate the problems you have encountered
-- Wiring the sensors correctly - having the wires going to the correct pinouts on the GPIO, determining whether resistors need to be added to the circuit, wiring the 5v relay, needing to double check wiring
-- Frying sensors - caused by incorrect wiring
+## Challenges Encountered:
+- Wiring and Sensor Management: Keeping track of the GPIO pin assignments to each transducer, labeling wires and ensuring that they are connected properly, connecting transducers to appropriate voltage (3.3V or 5V), ...[more here]?
+- Damaged Sensors: Incorrect wiring caused us to short circuit some of our transducers
+- Code Management: Learning how to pull data from multiple sensors simultaneously, ...
+- General Troubleshooting: Trying to determine if an error is occuring due to a wiring or a coding error
 - Debugging code - understanding why the sensor is not giving an ouptut, why the controlling event is not being triggered
-- Using multithreading to pull data from sensors simlutaneously
 - Understanding how to use Github pages - figuring out how to add images that are from the web or local, formatting content
 
 ## Future Plan - Describe what you plan to do in the next two weeks
