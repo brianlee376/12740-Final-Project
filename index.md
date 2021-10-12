@@ -29,21 +29,11 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 # Introduction
 This project demonstrates the applications of smart home technology. Using a Raspberry Pi to control a system of sensors and actuators, various functions in the home can be automated. For instance, temperature and humidity sensor can be programmed to turn on a fan when reaching a certain threshold. The benefit of automating these functions is improving both personal comfort and safety in the home. 
 
-Write a brief summary of your project
-
 # Motivation
-Motivate the problem you plan to address
-Why is the problem you are addressing important or interesting?
-
-Want to create a controllable mock living space using inputs from sensors
+The project we set out to accomplish was the successful coding, wiring, and demonstration of a mock smart home system. We chose this project to gain a better understanding of how in-home monitoring systems could work and to gain experience setting them up ourselves. As such, our group decided to use as many sensors as possible to gain familiarity with many different sensing systems. 
 
 # Goals
-What are you going to achieve by the end of the project specifically?
-Improve general living conditions in the model space
-Comfort
-Safety
-Efficiency
-
+By the end of the project, we hope to create a mock smart house that can respond to environmental phenomena including fire, smoke, carbon monoxide, touch, light, temperature, humidity, and movement. We will set a threshold value for each phenomena and, if that threshold is crossed, some function within the home (buzzer, fan, etc.) will be activated in response.
 
 # For Progress Report
 ## Current Progress
