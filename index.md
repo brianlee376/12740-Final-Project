@@ -124,9 +124,14 @@ Getting power to all the sensors + fan
 Making sure the smoke sensor doesn’t get damaged and is working properly
 Designing & building the model house
 
-## References
+# References
 
-Code for each sensor is a modified version of tutorials on https://kookye.com/2016/08/01/smart-home-sensor-kit-for-arduinoraspberry-pi/
+## Code
+1. Kookeye. KOOKYE Smart Home Sensor Kit for Arduino Raspberry Pi Tutorial Code https://kookye.com/2016/08/01/smart-home-sensor-kit-for-arduinoraspberry-pi/
+2. 
+
+## Images
+Images references
 
 
 
