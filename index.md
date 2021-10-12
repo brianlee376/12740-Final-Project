@@ -62,7 +62,7 @@ Highlights: In particular, articulate thing(s) you have learned / solved outside
 ## Challenges Encountered:
 - Wiring and Sensor Management: Keeping track of the GPIO pin assignments to each transducer, labeling wires and ensuring that they are connected properly, connecting transducers to appropriate voltage (3.3V or 5V), ...[more here]?
 - Damaged Sensors: Incorrect wiring caused us to short circuit some of our transducers
-- Code Management: Learning how to pull data from multiple sensors simultaneously, ...
+- Code Management: Learning how to pull data from multiple sensors simultaneously, ...[more here]
 - General Troubleshooting: Trying to determine if an error is occuring due to a wiring or a coding error
 - Debugging code - understanding why the sensor is not giving an ouptut, why the controlling event is not being triggered
 - Understanding how to use Github pages - figuring out how to add images that are from the web or local, formatting content
