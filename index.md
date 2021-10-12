@@ -54,8 +54,8 @@ Highlights: In particular, articulate thing(s) you have learned / solved outside
 - Damaged Sensors: Incorrect wiring caused us to short circuit some of our transducers
 - Code Management: Learning how to pull data from multiple sensors simultaneously. Figuring out a way to get all sensors to run in the same loop while having different refresh rates. Developing a smart way to get ensure that fans, lights, etc activate at the correct time, resolving conflicts if they receive different messages from different sensors. 
 - General Troubleshooting: Trying to determine if an error is occuring due to a wiring or a coding error
-- Debugging code - Understanding why a sensor is not giving an ouptut, why the controlled event is not being triggered
-- Understanding how to use Github pages - Figuring out how to add images that are from the web or local, formatting content
+- Debugging code: Understanding why a sensor is not giving an ouptut, why the controlled event is not being triggered
+- Understanding how to use Github pages: Figuring out how to add images that are from the web or local, formatting content
 
 ## Future Plan - Describe what you plan to do in the next two weeks
 ### This Week
