@@ -50,12 +50,12 @@ Model House | <img src="images/model_house_inital.jpg" alt="model house"  width=
 
 Highlights: In particular, articulate thing(s) you have learned / solved outside of what was taught in class
 ## Challenges Encountered:
-- Wiring and Sensor Management: Keeping track of the GPIO pin assignments to each transducer, labeling wires and ensuring that they are connected properly, connecting transducers to appropriate voltage (3.3V or 5V), ...[more here]?
+- Wiring and Sensor Management: Keeping track of the GPIO pin assignments to each transducer, labeling wires and ensuring that they are connected properly, connecting transducers to appropriate voltage (3.3V or 5V), as more sensors are added to the system it becomes more difficult to keep track of
 - Damaged Sensors: Incorrect wiring caused us to short circuit some of our transducers
-- Code Management: Learning how to pull data from multiple sensors simultaneously, ...[more here]
+- Code Management: Learning how to pull data from multiple sensors simultaneously. Figuring out a way to get all sensors to run in the same loop while having different refresh rates. Developing a smart way to get ensure that fans, lights, etc activate at the correct time, resolving conflicts if they receive different messages from different sensors. 
 - General Troubleshooting: Trying to determine if an error is occuring due to a wiring or a coding error
-- Debugging code - understanding why the sensor is not giving an ouptut, why the controlling event is not being triggered
-- Understanding how to use Github pages - figuring out how to add images that are from the web or local, formatting content
+- Debugging code - Understanding why a sensor is not giving an ouptut, why the controlled event is not being triggered
+- Understanding how to use Github pages - Figuring out how to add images that are from the web or local, formatting content
 
 ## Future Plan - Describe what you plan to do in the next two weeks
 ### This Week
@@ -87,7 +87,6 @@ Describe the sensor(s) you used, e.g. physical principles, static and dynamic be
 
 Sensor             | Control |Image
 :-------------------------:|:-------------------------:|:-------------------------:
-Buzzer | NA | <img src="http://cdn.shopify.com/s/files/1/0068/3399/5894/products/DSC_1892_grande.jpg?v=1590559539" alt="buzzer sensor"  width="200"/>
 Carbon Monoxide | Fan & Buzzer | <img src="https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Sensors/MQ-7%20Sensitive%20Detecting%20Carbon%20CO%20Gas%20Porduct/MQ-7%20Sensitive%20Detecting%20CO%20Gas%20Twins%20Chip%201-550x550.jpg" alt="carbon monoxide sensor"  width="200"/>
 DHT11 Temperature & Humidity | Fan |  <img src="https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/d/h/dht11-temperature-humidity-sensor-module.jpg" alt="dht11 temperature & humidity sensor"  width="200"/>
 Flame | LED & Buzzer | <img src="https://www.pcboard.ca/image/cache/catalog/products/flame-sensor/Flame-Sensor-Module-800x800.jpg" alt="carbon monoxide sensor"  width="200"/>
