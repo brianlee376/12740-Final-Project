@@ -27,7 +27,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 # Introduction
-Our project proves the feasibilty and demonstrates the convenience of smart home technlogy. Through the use of sensors, certain actions are triggered when the sensor has a certain reading. For example, if motion is detected at the entrace, the lights will turn on.
+This project demonstrates the applications of smart home technology. Using a Raspberry Pi to control a system of sensors and actuators, various functions in the home can be automated. For instance, temperature and humidity sensor can be programmed to turn on a fan when reaching a certain threshold. The benefit of automating these functions is improving both personal comfort and safety in the home. 
 
 Write a brief summary of your project
 
