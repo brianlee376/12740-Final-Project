@@ -35,7 +35,7 @@ The project we set out to accomplish was the successful coding, wiring, and demo
 # Goals
 By the end of the project, we hope to create a mock smart house that can respond to environmental phenomena including fire, smoke, carbon monoxide, touch, light, temperature, humidity, and movement. We will set a threshold value for each phenomena and, if that threshold is crossed, some function within the home (buzzer, fan, etc.) will be activated in response.
 
-# For Progress Report
+# Progress Report
 ## Current Progress
 - Built main frame of model house
 - Testing sensors we are planning on using
@@ -49,6 +49,7 @@ Smoke Sensor Testing | <img src="images/MQ2 Sensor Testing.jpg" alt="MQ2 sensor 
 Model House | <img src="images/model_house_inital.jpg" alt="model house"  width="400"/>
 
 Highlights: In particular, articulate thing(s) you have learned / solved outside of what was taught in class
+
 ## Challenges Encountered:
 - Wiring and Sensor Management: Keeping track of the GPIO pin assignments to each transducer, labeling wires and ensuring that they are connected properly, connecting transducers to appropriate voltage (3.3V or 5V), as more sensors are added to the system it becomes more difficult to keep track of
 - Damaged Sensors: Incorrect wiring caused us to short circuit some of our transducers
@@ -120,7 +121,16 @@ Designing & building the model house
 2. 
 
 ### Images
-Images references
+
+1. MQ7 Carbon Monoxide Sensor: https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Sensors/MQ-7%20Sensitive%20Detecting%20Carbon%20CO%20Gas%20Porduct/MQ-7%20Sensitive%20Detecting%20CO%20Gas%20Twins%20Chip%201-550x550.jpg
+2. DHT11 Temperature & Humidity Fan: https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/d/h/dht11-temperature-humidity-sensor-module.jpg
+3. Flame Sensor: https://www.pcboard.ca/image/cache/catalog/products/flame-sensor/Flame-Sensor-Module-800x800.jpg
+4. MQ2 Smoke Sensor: https://img.joomcdn.net/21d689accaa9b832d434936c1b8058a4e05b16a5_original.jpeg
+5. Passive Infrared PIR Sensor: https://media-cdn.seeedstudio.com/media/catalog/product/cache/b2267b506d4e4594666ef83a79896a9a/p/e/perspective_3_3.jpg
+6. Photoresistive Sensor: https://osoyoo.com/wp-content/uploads/2017/09/14.jpg
+7. Touch Sensor: https://imgaz3.staticbg.com/thumb/large/upload/2012/lidanpo/SKU117322%20(1).jpg
+
+
 
 
 
