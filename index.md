@@ -111,7 +111,9 @@ Another problem we ran into while setting up this project was making sure that e
 ### Code
 
 1. Kookeye. KOOKYE Smart Home Sensor Kit for Arduino Raspberry Pi Tutorial Code https://kookye.com/2016/08/01/smart-home-sensor-kit-for-arduinoraspberry-pi/
-2. 
+
+### Pin Assignments
+<img src="https://i.ibb.co/4PTMsKr/243577933-618504809310536-3693178340341468681-n.png" alt="Pin assignments"  width="200"/>
 
 ### Images
 
