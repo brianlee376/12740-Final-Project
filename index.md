@@ -74,7 +74,7 @@ Highlights: In particular, articulate thing(s) you have learned / solved outside
 # Methodology
 ## Phenomena of Interest
 The phenomena we decided to test were:
-1. Presence of fire
+1. Fire
 2. Touch
 3. Light
 4. Temperature/Humidity
