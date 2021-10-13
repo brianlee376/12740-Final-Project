@@ -103,14 +103,9 @@ In order to ensure that each sensor was working as intended, we would test it be
 Describe the experiments you did and present the results; Use tables and plots if possible
 
 # Discussion
-Discuss the insights from the project
+One thing our group learned from this project is that knowing how each sensor works and having a plan for how to test them is very important. In the beginning, for example our group wasn't sure how to test the smoke and carbon monoxide sensors safely. After some researching, we decided that burning cigarettes would be a good way to test both of these sensors in a safe way. From this experience, we realized that one of the most important steps in setting up sensor systems was having a way to reliably test and measure different sensors. Without this, it becomes difficult to say which part of the system is working or not working properly. 
 
-Not knowing if the carbon monoxide sensor is working properly
-Being able to link up all the sensors to the board
-Are there enough pinouts on the Raspberry PI?
-Getting power to all the sensors + fan
-Making sure the smoke sensor doesn’t get damaged and is working properly
-Designing & building the model house
+Another problem we ran into while setting up this project was making sure that everything was wired up correctly. Because one of our goals was to use as many sensors as possible, we needed to be very organized about our wiring. This included both sautering wires together to create stronger connections and labeling each wire so we could quickly identify it in case it came loose or got disconnected. 
 
 # References
 ### Code
