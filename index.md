@@ -101,8 +101,11 @@ In order to ensure that each sensor was working as intended, we would test it be
 
 # Experiments and Results
 We needed to test if each sensor used in this project was working or not. For this purpose, we needed to generate stimuli for each sensor. This became a problem for MQ2, MQ7, and flame sensor.
+
 For MQ2 and MQ7, we had to figure out a way to generate smoke and CO safely without risking our health. According to the datasheet of these two sensors, they detect methane and CO respectively. Therefore, we bought a pack of cigarettes since that was the safe source that we were able to access that produced the two chemical stimuli. 
+
 While testing flame sensor, we found out that the flame sensor could also be triggered by direct exposure to sunlight. Since it detects light in the 760 - 1000 nm wavelength range, and sunlight happens to fall in that range too. While we were testing flame sensor, we had to be at an indoor but ventilated space so that we didn't get false triggers or risk our lives. Therefore, we tested the flame sensor and recorded the project demonstration on the hallway that led to ANSYS hall.
+
 When embedding the PIR sensor, we didn't really come across any problem. Instead, we had a finding that might be positive to present. We found out that when a PIR sensor is triggered, the voltage doesn't necessarily go to low instantaneously after the target gets out of the detection range, meaning that there is latency in the sensor. This didn't present a challenge to our project because we were only sensing the event of entering the house.
 
 
