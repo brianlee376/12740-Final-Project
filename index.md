@@ -88,7 +88,7 @@ Describe the sensor(s) you used, e.g. physical principles, static and dynamic be
 
 Sensor             | Control |Image | Description
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
-Carbon Monoxide (MQ7) | Fan & Buzzer | <img src="https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Sensors/MQ-7%20Sensitive%20Detecting%20Carbon%20CO%20Gas%20Porduct/MQ-7%20Sensitive%20Detecting%20CO%20Gas%20Twins%20Chip%201-550x550.jpg" alt="carbon monoxide sensor"  width="200"/> | <ul><li>Analog and Digital</li><li>Working Temperature: -20 ~ 50 deg C</li><li>O2 Concentration: 21% </li></ul>
+Carbon Monoxide | Fan & Buzzer | <img src="https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Sensors/MQ-7%20Sensitive%20Detecting%20Carbon%20CO%20Gas%20Porduct/MQ-7%20Sensitive%20Detecting%20CO%20Gas%20Twins%20Chip%201-550x550.jpg" alt="carbon monoxide sensor"  width="200"/> | <ul><li>Analog and Digital</li></ul>
 DHT11 Temperature & Humidity | Fan |  <img src="https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/d/h/dht11-temperature-humidity-sensor-module.jpg" alt="dht11 temperature & humidity sensor"  width="200"/> | <ul><li>Digital Output</li><li>Accuracy: +/- 5% RH, +/- 2 deg C </li></ul>
 Flame | LED & Buzzer | <img src="https://www.pcboard.ca/image/cache/catalog/products/flame-sensor/Flame-Sensor-Module-800x800.jpg" alt="carbon monoxide sensor"  width="200"/> | <ul><li>Analog and Digital Output</li><li>Working Voltage: 3.3V-5V</li><li>Sensing Range: 20cm ~ 100cm</li><li>Input: Flame/light with wavelength 760nm - 1100nm </li></li></ul>
 MQ2 Smoke | Fan & Buzzer | <img src="https://img.joomcdn.net/21d689accaa9b832d434936c1b8058a4e05b16a5_original.jpeg" alt="smoke sensor"  width="200"/> | <ul><li>Analog and Digital Output</li></ul>
@@ -96,10 +96,8 @@ Passive Infrared (PIR) | LED | <img src="https://media-cdn.seeedstudio.com/media
 Photosensitive | LED | <img src="https://osoyoo.com/wp-content/uploads/2017/09/14.jpg" alt="photoresistive sensor"  width="200"/> | <ul><li>Analog and Digital Output</li><li>Working Voltage: 3.3V-5V</li></ul>
 Touch | LED | <img src="https://imgaz3.staticbg.com/thumb/large/upload/2012/lidanpo/SKU117322%20(1).jpg" alt="touch sensor"  width="200"/> | <ul><li>Digital Output</li></ul>
 
-
-
 ## Signal Conditioning and Processing
-Describe the signal conditioning and processing procedures
+In order to ensure that each sensor was working as intended, we would test it before adding it to the overall system. Some of the more difficult sensors to test and implement were the smoke and carbon monoxide sensors. To test these, we figured out that cigarettes release both of these substances and decided to use them to set up these sensors. For other sensors, we also experimented with the sampling rate as it could vary greatly between different sensors. The temperature and humidity sensor, for example, was originally set up to sample at a rate of once per second. But after, experimentation, we found that a delay of 5 seconds between measurements gave us the best combination of accuracy and granularity. 
 
 # Experiments and Results
 Describe the experiments you did and present the results; Use tables and plots if possible
