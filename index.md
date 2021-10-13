@@ -81,7 +81,7 @@ The phenomena we decided to test were:
 5. Smoke
 6. Carbon-monoxide
 
-In many cases, we were less concerned about the intensity of these phenomena and were more interested in determining if it was above or below some defined threshold. For example, while we did collect temperature and humidity data, we would only return the values of True or False depending on if either the temperature or humidity were beyond some "comfortable" range. This holds true for the other sensors as well where we did not use their specific intensity values, but instead categorized the readings as either "good" or "bad". 
+In many cases, we were less concerned about the intensity of these phenomena and were more interested in determining if it was above or below some defined threshold. For example, while we did collect temperature and humidity data, we would only return the values of True or False depending on if either the temperature or humidity were beyond some "comfortable" range. This holds true for the other sensors where we did not use their specific intensity values, but instead categorized the readings as either "good" or "bad". 
 
 ## Sensor(s) Used
 Describe the sensor(s) you used, e.g. physical principles, static and dynamic behavior, and signal characteristics
