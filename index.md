@@ -93,7 +93,7 @@ DHT11 Temperature & Humidity | Fan |  <img src="https://www.robotshop.com/media/
 Flame | LED & Buzzer | <img src="https://www.pcboard.ca/image/cache/catalog/products/flame-sensor/Flame-Sensor-Module-800x800.jpg" alt="carbon monoxide sensor"  width="200"/> | afasdf
 MQ2 Smoke | Fan & Buzzer | <img src="https://img.joomcdn.net/21d689accaa9b832d434936c1b8058a4e05b16a5_original.jpeg" alt="smoke sensor"  width="200"/> | afsfasf
 Passive Infrared (PIR) | LED | <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/b2267b506d4e4594666ef83a79896a9a/p/e/perspective_3_3.jpg" alt="carbon monoxide sensor"  width="200"/> | afafsf
-Photoresistive | LED | <img src="https://osoyoo.com/wp-content/uploads/2017/09/14.jpg" alt="photoresistive sensor"  width="200"/> | - Analog and Digital Output - asdf
+Photoresistive | LED | <img src="https://osoyoo.com/wp-content/uploads/2017/09/14.jpg" alt="photoresistive sensor"  width="200"/> | <ul><li>*Analog and Digital Output</li><li>* item2</li></ul>
 Touch | LED | <img src="https://imgaz3.staticbg.com/thumb/large/upload/2012/lidanpo/SKU117322%20(1).jpg" alt="touch sensor"  width="200"/> | asfsd
 
 
