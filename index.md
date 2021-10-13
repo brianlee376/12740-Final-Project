@@ -87,7 +87,7 @@ Carbon-monoxide
 Describe the sensor(s) you used, e.g. physical principles, static and dynamic behavior, and signal characteristics
 
 Sensor             | Control |Image | Description
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
 Carbon Monoxide | Fan & Buzzer | <img src="https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Sensors/MQ-7%20Sensitive%20Detecting%20Carbon%20CO%20Gas%20Porduct/MQ-7%20Sensitive%20Detecting%20CO%20Gas%20Twins%20Chip%201-550x550.jpg" alt="carbon monoxide sensor"  width="200"/> | <ul><li>Analog and Digital</li></ul>
 DHT11 Temperature & Humidity | Fan |  <img src="https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/d/h/dht11-temperature-humidity-sensor-module.jpg" alt="dht11 temperature & humidity sensor"  width="200"/> | <ul><li>Digital Output</li><li>Accuracy: +/- 5% RH, +/- 2 deg C </li></ul>
 Flame | LED & Buzzer | <img src="https://www.pcboard.ca/image/cache/catalog/products/flame-sensor/Flame-Sensor-Module-800x800.jpg" alt="carbon monoxide sensor"  width="200"/> | <ul><li>Analog and Digital Output</li></ul>
