@@ -3,11 +3,8 @@
 Team Members: Brian Lee, Cheyu Lin, Ryan Rusali, Matt Takara
 
 # Video Presentation with Demo
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RqansmCDt94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<video src="https://drive.google.com/file/d/1FEkEl8IEDGMolkugheqMs6aMYGueHD4F/view?usp=sharing" controls="controls" style="max-width: 730px;">
-</video>
 
 # Introduction
 This project demonstrates the applications of smart home technology. Using a Raspberry Pi to control a system of sensors and actuators, various functions in the home can be automated. For instance, temperature and humidity sensor can be programmed to turn on a fan when reaching a certain threshold. The benefit of automating these functions is improving both personal comfort and safety in the home. 
@@ -37,7 +34,6 @@ Highlights: In particular, articulate thing(s) you have learned / solved outside
 - Wiring and Sensor Management: Keeping track of the GPIO pin assignments to each transducer, labeling wires and ensuring that they are connected properly, connecting transducers to appropriate voltage (3.3V or 5V), as more sensors are added to the system it becomes more difficult to keep track of
 - Damaged Sensors: Incorrect wiring caused us to short circuit some of our transducers
 - Code Management: Learning how to pull data from multiple sensors simultaneously. Figuring out a way to get all sensors to run in the same loop while having different refresh rates. Developing a smart way to get ensure that fans, lights, etc activate at the correct time, resolving conflicts if they receive different messages from different sensors. 
-- False Positives: The biggest issues with false positives was the PIR sensor and the flame sensor. The PIR is very sensitive to movement so we had to position it in a way so that it would not be triggered by us moving around while working on the project. The flame sensor not just sensitive to flames, but general light sources within a certain range, so it would often be triggered because we were working in a space that had a lot of natural lighting.
 - General Troubleshooting: Trying to determine if an error is occuring due to a wiring or a coding error
 - Debugging code: Understanding why a sensor is not giving an ouptut, why the controlled event is not being triggered
 - Understanding how to use Github pages: Figuring out how to add images that are from the web or local, formatting content
@@ -72,10 +68,10 @@ Describe the sensor(s) you used, e.g. physical principles, static and dynamic be
 
 Sensor             | Control |Image | Description
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
-Carbon Monoxide | Fan & Buzzer | <img src="https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Sensors/MQ-7%20Sensitive%20Detecting%20Carbon%20CO%20Gas%20Porduct/MQ-7%20Sensitive%20Detecting%20CO%20Gas%20Twins%20Chip%201-550x550.jpg" alt="carbon monoxide sensor"  width="200"/> | <ul><li>Analog and Digital</li><li>Workign Temperature: -20 ~ 50 deg C</li>Input Range: 200 ~ 2000 ppm</li></ul>
+Carbon Monoxide | Fan & Buzzer | <img src="https://www.twinschip.com/image/cache/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Sensors/MQ-7%20Sensitive%20Detecting%20Carbon%20CO%20Gas%20Porduct/MQ-7%20Sensitive%20Detecting%20CO%20Gas%20Twins%20Chip%201-550x550.jpg" alt="carbon monoxide sensor"  width="200"/> | <ul><li>Analog and Digital</li></ul>
 DHT11 Temperature & Humidity | Fan |  <img src="https://www.robotshop.com/media/catalog/product/cache/image/1350x/9df78eab33525d08d6e5fb8d27136e95/d/h/dht11-temperature-humidity-sensor-module.jpg" alt="dht11 temperature & humidity sensor"  width="200"/> | <ul><li>Digital Output</li><li>Accuracy: +/- 5% RH, +/- 2 deg C </li></ul>
 Flame | LED & Buzzer | <img src="https://www.pcboard.ca/image/cache/catalog/products/flame-sensor/Flame-Sensor-Module-800x800.jpg" alt="carbon monoxide sensor"  width="200"/> | <ul><li>Analog and Digital Output</li><li>Working Voltage: 3.3V-5V</li><li>Sensing Range: 20cm ~ 100cm</li><li>Input: Flame/light with wavelength 760nm - 1100nm </li></li></ul>
-MQ2 Smoke | Fan & Buzzer | <img src="https://img.joomcdn.net/21d689accaa9b832d434936c1b8058a4e05b16a5_original.jpeg" alt="smoke sensor"  width="200"/> | <ul><li>Analog and Digital Output</li><li>Input Range: 300 ~ 10,000ppm </li></ul>
+MQ2 Smoke | Fan & Buzzer | <img src="https://img.joomcdn.net/21d689accaa9b832d434936c1b8058a4e05b16a5_original.jpeg" alt="smoke sensor"  width="200"/> | <ul><li>Analog and Digital Output</li></ul>
 Passive Infrared (PIR) | LED | <img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/b2267b506d4e4594666ef83a79896a9a/p/e/perspective_3_3.jpg" alt="carbon monoxide sensor"  width="200"/> | <ul><li>Digital Output</li><li>Voltge: 5V-20V</li><li>TTL Voltage: 3.3V, 0V</li><li>Power Consumption: 65mA </li><li>Sensing Range: Within 120 degrees, 7m</li><li>Working Temperature: -15 ~ 70 F </ul>
 Photosensitive | LED | <img src="https://osoyoo.com/wp-content/uploads/2017/09/14.jpg" alt="photoresistive sensor"  width="200"/> | <ul><li>Analog and Digital Output</li><li>Working Voltage: 3.3V-5V</li></ul>
 Touch | LED | <img src="https://imgaz3.staticbg.com/thumb/large/upload/2012/lidanpo/SKU117322%20(1).jpg" alt="touch sensor"  width="200"/> | <ul><li>Digital Output</li></ul>
