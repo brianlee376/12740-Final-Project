@@ -3,6 +3,9 @@
 Team Members: Brian Lee, Cheyu Lin, Ryan Rusali, Matt Takara
 
 # Video Presentation with Demo
+<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 <video src="https://drive.google.com/file/d/1FEkEl8IEDGMolkugheqMs6aMYGueHD4F/view?usp=sharing" controls="controls" style="max-width: 730px;">
 </video>
 
