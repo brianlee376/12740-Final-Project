@@ -2,6 +2,9 @@
 ## 12740 Data Aquisition Fall 2021
 Team Members: Brian Lee, Cheyu Lin, Ryan Rusali, Matt Takara
 
+# Video Presentation with Demo
+<video src="https://drive.google.com/file/d/1FEkEl8IEDGMolkugheqMs6aMYGueHD4F/view?usp=sharing" width="400"/>
+
 # Introduction
 This project demonstrates the applications of smart home technology. Using a Raspberry Pi to control a system of sensors and actuators, various functions in the home can be automated. For instance, temperature and humidity sensor can be programmed to turn on a fan when reaching a certain threshold. The benefit of automating these functions is improving both personal comfort and safety in the home. 
 
